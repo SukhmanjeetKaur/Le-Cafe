@@ -25,7 +25,7 @@ I have ordered Chocolate Hazelnut Truffle and Coffee <img src="https://img.icons
 ![z](https://user-images.githubusercontent.com/87376487/133189336-768b87a9-3984-403f-b516-ad5dfa81b558.png)
 
 ### Payment mode <img src="https://img.icons8.com/color/48/000000/online-money-transfer.png"/><img src="https://img.icons8.com/color/48/000000/cash-.png"/> 
-![z](https://user-images.githubusercontent.com/87376487/133189336-768b87a9-3984-403f-b516-ad5dfa81b558.png)
+![z](https://user-images.githubusercontent.com/87376487/133191218-c96dffee-74ee-4e03-ac3c-e8d2d3877986.png)
 
 ### Payment Mode : Cash On Delivery <img src="https://img.icons8.com/color/48/000000/cash-.png"/>
 ![z](https://user-images.githubusercontent.com/87376487/133189967-04522593-bc41-4941-8c62-ae2a360a1078.png)
