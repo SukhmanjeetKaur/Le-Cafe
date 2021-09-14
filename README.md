@@ -34,6 +34,9 @@ I have ordered Chocolate Hazelnut Truffle and Coffee <img src="https://img.icons
 ![z](https://user-images.githubusercontent.com/87376487/133190364-7ebce2de-108a-4139-9fc0-04101ed36f9d.png)
 ![z](https://user-images.githubusercontent.com/87376487/133190473-f6627504-cee2-4c35-8231-1f1a2b5d3078.png)
 
+Thank you for visiting Le Cafe' , We are happy to serve you!
+<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-coffee-autumn-season-justicon-flat-justicon.png"/>
+
 
 
 
